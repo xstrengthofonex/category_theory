@@ -1,5 +1,5 @@
-Category Theory
-===============
+Category
+========
 
 Category consists of objects and arrows that go between them.
 An object can be drawn as circle or point and an arrow is an arrow.
@@ -79,5 +79,5 @@ def identity(x: T) -> T:
     return x
 ```
 
-Composition is the Essence of Programming
-----------------------------------------
+Types and Functions
+===================
